@@ -1,0 +1,13 @@
+<taglib>  
+
+<tlib-version>1.0 </tlib-version>
+<jsp-version>2.0</jsp-version>
+
+<tag>
+<name>fact</name>
+<tag-class> com.seed.FactorialClass</tag-class>
+<attribute>
+<name>num</name>
+</attribute>
+</tag>
+</taglib>
